@@ -2,17 +2,21 @@ How to Download & Run the Project
 
 Follow the steps below to set up the project on your local system.
 
-Clone the Repository
-git clone https://github.com/Amarjit-Gupta/flight-seat-selection.git
+1. Clone the Repository
+   
+   git clone https://github.com/Amarjit-Gupta/flight-seat-selection.git
 
-cd flight-seat-selection
+   cd flight-seat-selection
 
-Install Dependencies
-npm install
+2. Install Dependencies
 
-Start the Development Server
-npm run dev
+   npm install
 
-Open the URL shown in the terminal (usually http://localhost:5173) in your browser.
+3. Start the Development Server
+
+   npm run dev
+
+4. Open the URL shown in the terminal (usually http://localhost:5173) in your browser.
+
 
 Live URL: https://flight-seat-selection-neon.vercel.app/
